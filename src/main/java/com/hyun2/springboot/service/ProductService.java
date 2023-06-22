@@ -2,6 +2,7 @@ package com.hyun2.springboot.service;
 
 import com.hyun2.springboot.dto.ProductDto;
 import com.hyun2.springboot.dto.ProductResponseDto;
+import org.springframework.stereotype.Service;
 
 public interface ProductService {
 
